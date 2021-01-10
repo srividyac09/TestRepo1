@@ -1,3 +1,7 @@
 Change2 – commit with message as “Change2 in File1”..
 798765 asdd
-commit 2:commit for master
+
+
+
+commit1:new commit for idea branch
+
